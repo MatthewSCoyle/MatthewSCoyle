@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MatthewSCoyle
 - 👀 I’m interested in computer science.
-- 🌱 I’m currently learning RPi.GPIO and PowerShell.
+- 🌱 I’m currently learning RPi.GPIO, PowerShell, and C++.
 - I have a few certifications!
 
 <!---
